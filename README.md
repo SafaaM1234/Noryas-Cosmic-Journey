@@ -1,5 +1,8 @@
-# 🌌 Norya's Cosmic Journey
+<p align="center">
+  <img src="Documentation/screenshots/app-icon.png" width="180">
+</p>
 
+# Norya's Cosmic Journey
 ### An Educational Augmented Reality Experience
 
 ![Norya's Cosmic Journey](Documentation/screenshots/main-demo.png)

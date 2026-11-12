@@ -2,3 +2,4 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.tgz filter=lfs diff=lfs merge=lfs -text
+Documentation/Norya_Cosmic_Journey_Book.pdf filter=lfs diff=lfs merge=lfs -text

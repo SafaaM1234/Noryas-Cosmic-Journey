@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Documentation/screenshots/app-icon.png" width="180">
+  <img src="Documentation/screenshots/app-icon.png" width="180" alt="Norya App Icon">
 </p>
 
 # Norya's Cosmic Journey

@@ -1,11 +1,15 @@
-<p align="center">
-  <img src="Documentation/screenshots/app-icon.png" width="180" alt="Norya App Icon">
+<p>
+  <img src="Documentation/screenshots/app-icon.png"
+       width="150"
+       align="left"
+       alt="Norya App Icon"
+       style="border-radius: 18px; margin-right: 22px;">
+
+  <strong><big><big>Norya's Cosmic Journey</big></big></strong>
+  <br><br>
+  <em>An Educational Augmented Reality Experience</em>
+  <br clear="left">
 </p>
-
-# Norya's Cosmic Journey
-### An Educational Augmented Reality Experience
-
-![Norya's Cosmic Journey](Documentation/screenshots/main-demo.png)
 
 ## ✨ About the Project
 

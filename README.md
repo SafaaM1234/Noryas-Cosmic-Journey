@@ -45,6 +45,9 @@ This project was developed as part of the **Master's program in Immersive Techno
 
 The project includes an educational book designed to accompany the AR experience.
 
+<img src="Documentation/screenshots/main-demo.png"
+    alt="Demonstration of the sun">
+
 [📘 Read Norya's Cosmic Journey Book (PDF)](Documentation/Norya_Cosmic_Journey_Book.pdf)
 
 ## 🎬 Demo

@@ -67,4 +67,14 @@ Casablanca, Morocco
 
 ---
 
+## 👩‍💻 Project Team
+
+This project was developed by:
+
+- **[Safaa Mounkid](https://github.com/SafaaM1234)**
+- **[Ilham Aboulkanatir](https://github.com/ilhamaboulkanatir1-cyber)**
+
+---
+
 *Explore the universe, one page at a time!* ✨
+

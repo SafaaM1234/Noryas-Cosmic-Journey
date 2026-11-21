@@ -9,8 +9,6 @@
        width="550"
        alt="Norya's Cosmic Journey">
 
-  <br>
-
   <em>An Educational Augmented Reality Experience</em>
 
   <br clear="left">

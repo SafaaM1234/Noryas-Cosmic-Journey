@@ -48,9 +48,11 @@ The project includes an educational book designed to accompany the AR experience
 
 [📘 Read Norya's Cosmic Journey Book (PDF)](Documentation/Norya_Cosmic_Journey_Book.pdf)
 
-## 🎬 Demo
+## 🎬 Project Demo
 
-A video demonstration of the application will be available here soon.
+You can watch the project demonstration here:
+
+[▶ Watch Project Demo](Documentation/Video/demo_video.mp4)
 
 ## 📱 Platform
 

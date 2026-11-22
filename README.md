@@ -22,6 +22,8 @@ Guided by **Norya**, a friendly cosmic companion, users can explore celestial ob
 
 This project was developed as part of the **Master's program in Immersive Technologies at ENSAM**.
 
+<br>
+
 ## 🚀 Features
 
 - **Image Recognition:** Detect book pages and display corresponding AR content.
@@ -32,12 +34,16 @@ This project was developed as part of the **Master's program in Immersive Techno
 - **Educational Book:** Learn interesting facts about space through illustrated pages.
 - **Video Content:** Discover additional space-related content.
 
+<br>
+
 ## 🛠️ Technologies Used
 
 - **Unity 6** – Application development.
 - **Vuforia Engine** – Image tracking and Augmented Reality.
 - **C#** – Interaction and animation scripting.
 - **Blender** – 3D assets and visual content.
+
+<br>
 
 ## 📖 Educational Book
 
@@ -48,15 +54,35 @@ The project includes an educational book designed to accompany the AR experience
 
 [📘 Read Norya's Cosmic Journey Book (PDF)](Documentation/Norya_Cosmic_Journey_Book.pdf)
 
+<br>
+
 ## 🎬 Project Demo
 
 You can watch the project demonstration here:
 
 [▶ Watch Project Demo](Documentation/Video/demo_video.mp4)
 
+<br>
+
 ## 📱 Platform
 
 - Android
+
+  <br>
+  
+## 📌 Credits & Third-Party Content
+
+**Halley's Comet Video**
+
+The video *"Halley's Comet Explained | History | Will we see it again?"* used in this application is sourced from YouTube and is not original content created by our team.
+
+- **Original source:** [Watch on YouTube](https://youtu.be/z1yREHRSMIc)
+- **Video title:** Halley's Comet Explained | History | Will we see it again?
+- **Content ownership:** All rights and ownership of the original video remain with its respective creator and copyright holder.
+
+This video is included solely for educational and demonstration purposes as part of our Augmented Reality (AR) project. We do not claim ownership of this content or intend to infringe upon any third-party copyrights.
+
+<br>
 
 ## 🎓 Academic Project
 
@@ -65,7 +91,7 @@ Developed as part of the **Master in Immersive Technologies** at:
 **École Nationale Supérieure d'Arts et Métiers (ENSAM)**  
 Casablanca, Morocco
 
----
+<br>
 
 ## 👩‍💻 Project Team
 

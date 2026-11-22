@@ -56,11 +56,11 @@ The project includes an educational book designed to accompany the AR experience
 
 <br>
 
-## 🎬 Project Demo
+## 🎬 Project Demonstration
 
-You can watch the project demonstration here:
+Click on the image below to watch the full project demonstration.
 
-[▶ Watch Project Demo](Documentation/Video/demo_video.mp4)
+[![Norya's Cosmic Journey - Project Demo](Documentation/Video/demo.png)](https://drive.google.com/file/d/15i3TnuPHQj0cM0J_1-5XRwDyrswdfvYP/view)
 
 <br>
 
